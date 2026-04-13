@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SaalGuessr 🇮🇳 — Guess the Year</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>SaalGuessr</h1>
+            <p class="subtitle">Guess the year from Indian history</p>
+            <p class="challenge-number" id="challengeNumber"></p>
+        </header>
+
+        <div id="gameArea">
+            <div class="hints-section" id="hintsSection">
+            </div>
+
+            <div class="input-section" id="inputSection">
+                <div class="guess-input-row">
+                    <input type="number" id="yearInput" min="1800" max="2025" placeholder="Enter year (1800–2025)">
+                    <button id="guessBtn" onclick="submitGuess()">Guess</button>
+                </div>
+                <p class="error-msg" id="errorMsg"></p>
+            </div>
+
+            <div class="guesses-section" id="guessesSection">
+            </div>
+        </div>
+
+        <div id="resultArea" class="hidden">
+            <div id="resultMessage"></div>
+            <div id="resultGuesses"></div>
+            <button id="shareBtn" onclick="shareResult()">📋 Copy Result</button>
+            <p class="share-confirm hidden" id="shareConfirm">Copied to clipboard!</p>
+        </div>
+
+        <div class="footer">
+            <p>A new challenge every day at midnight IST</p>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>
