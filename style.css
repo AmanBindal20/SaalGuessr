@@ -52,44 +52,83 @@ header h1 {
 
 /* Hints */
 .hints-section {
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 }
 
-.hint-card {
+/* Pill row */
+.hint-pills {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+.hint-pill {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.15s, background 0.2s;
+    user-select: none;
+}
+
+.hint-pill.locked {
+    background: #1a1a1b;
+    border: 2px dashed #3a3a3c;
+    color: #3a3a3c;
+    cursor: default;
+}
+
+.hint-pill.active {
+    background: #2a2a2b;
+    border: 2px solid #538d4e;
+    color: #6aaa64;
+}
+
+.hint-pill.active:hover {
+    transform: scale(1.1);
+}
+
+.hint-pill.selected {
+    background: #538d4e;
+    border-color: #6aaa64;
+    color: #ffffff;
+    transform: scale(1.1);
+}
+
+/* Hint detail box */
+.hint-detail {
     background: #1a1a1b;
     border: 1px solid #3a3a3c;
     border-radius: 8px;
     padding: 14px 16px;
-    margin-bottom: 10px;
-    animation: fadeIn 0.4s ease-in;
+    min-height: 60px;
+    animation: fadeIn 0.3s ease-in;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
 }
 
-.hint-card .hint-label {
-    font-size: 0.75rem;
+.hint-detail-label {
+    font-size: 0.72rem;
     color: #565758;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-bottom: 6px;
 }
 
-.hint-card .hint-text {
+.hint-detail-text {
     font-size: 0.95rem;
     line-height: 1.5;
     color: #d7dadc;
 }
 
-.hint-card.locked {
-    opacity: 0.3;
-    border-style: dashed;
-}
-
-.hint-card.locked .hint-text {
-    filter: blur(6px);
-    user-select: none;
-}
-
 @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-8px); }
+    from { opacity: 0; transform: translateY(-6px); }
     to { opacity: 1; transform: translateY(0); }
 }
 
@@ -156,64 +195,47 @@ header h1 {
 
 /* Guesses */
 .guesses-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
     margin-bottom: 20px;
 }
 
 .guess-row {
     display: flex;
     align-items: center;
-    gap: 12px;
-    padding: 10px 14px;
-    margin-bottom: 8px;
+    gap: 6px;
+    padding: 8px 14px;
     border-radius: 8px;
-    font-size: 1.1rem;
-    font-weight: 600;
+    font-size: 1rem;
+    font-weight: 700;
     animation: slideIn 0.3s ease-out;
 }
 
-.guess-row .guess-number {
-    font-size: 0.8rem;
-    color: #818384;
-    min-width: 20px;
-}
-
 .guess-row .guess-year {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 700;
-    min-width: 60px;
 }
 
-.guess-row .guess-feedback {
-    font-size: 0.85rem;
-    color: #818384;
+.guess-row .guess-arrow {
+    font-size: 1rem;
 }
 
 .guess-row.correct {
     background: #538d4e;
     border: 1px solid #6aaa64;
-}
-
-.guess-row.correct .guess-feedback {
-    color: #ffffff;
-}
-
-.guess-row.same-decade {
-    background: #b59f3b;
-    border: 1px solid #c9b458;
-}
-
-.guess-row.same-decade .guess-feedback {
     color: #ffffff;
 }
 
 .guess-row.wrong {
     background: #3a3a3c;
     border: 1px solid #565758;
+    color: #ffffff;
 }
 
 @keyframes slideIn {
-    from { opacity: 0; transform: translateX(-12px); }
-    to { opacity: 1; transform: translateX(0); }
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
 /* Result */
@@ -293,5 +315,28 @@ header h1 {
 
     #guessBtn {
         width: 100%;
+    }
+
+    /* Keep input pinned to bottom so hints/guesses remain visible above keyboard */
+    body {
+        padding-bottom: 0;
+    }
+
+    #gameArea {
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 100px; /* space for sticky input */
+    }
+
+    .input-section {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: #121213;
+        border-top: 1px solid #3a3a3c;
+        padding: 12px 16px;
+        margin-bottom: 0;
+        z-index: 100;
     }
 }
