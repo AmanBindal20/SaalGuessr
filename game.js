@@ -88,16 +88,54 @@ function loadState() {
 }
 
 // ---- UI ----
-function showHint(index) {
+function renderHints(revealedCount) {
     const section = document.getElementById('hintsSection');
-    if (index >= todayEvent.hints.length) return;
+    section.innerHTML = '';
 
-    const card = document.createElement('div');
-    card.className = 'hint-card';
-    card.innerHTML =
-        '<div class="hint-label">Hint ' + (index + 1) + '</div>' +
-        '<div class="hint-text">' + todayEvent.hints[index] + '</div>';
-    section.appendChild(card);
+    // Row of 5 numbered pills
+    const pillRow = document.createElement('div');
+    pillRow.className = 'hint-pills';
+    for (var i = 0; i < todayEvent.hints.length; i++) {
+        const pill = document.createElement('div');
+        pill.className = 'hint-pill' + (i < revealedCount ? ' active' : ' locked');
+        pill.dataset.index = i;
+        pill.textContent = (i + 1);
+        pill.onclick = (function(idx) {
+            return function() { showHintDetail(idx); };
+        })(i);
+        pillRow.appendChild(pill);
+    }
+    section.appendChild(pillRow);
+
+    // Detail area — show last revealed hint by default
+    const detail = document.createElement('div');
+    detail.className = 'hint-detail';
+    detail.id = 'hintDetail';
+    if (revealedCount > 0) {
+        var lastIdx = revealedCount - 1;
+        detail.innerHTML = '<span class="hint-detail-label">Hint ' + (lastIdx + 1) + '</span>' +
+            '<span class="hint-detail-text">' + todayEvent.hints[lastIdx] + '</span>';
+        pillRow.children[lastIdx].classList.add('selected');
+    }
+    section.appendChild(detail);
+}
+
+function showHintDetail(index) {
+    const section = document.getElementById('hintsSection');
+    const pills = section.querySelectorAll('.hint-pill');
+    pills.forEach(function(p) { p.classList.remove('selected'); });
+    if (pills[index]) pills[index].classList.add('selected');
+
+    const detail = document.getElementById('hintDetail');
+    if (detail) {
+        detail.innerHTML = '<span class="hint-detail-label">Hint ' + (index + 1) + '</span>' +
+            '<span class="hint-detail-text">' + todayEvent.hints[index] + '</span>';
+    }
+}
+
+function showHint(index) {
+    // Reveal up to index+1 hints
+    renderHints(index + 1);
 }
 
 function getDirection(guess, answer) {
@@ -109,49 +147,33 @@ function getDirection(guess, answer) {
 function addGuessRow(year, status, index) {
     const section = document.getElementById('guessesSection');
     const row = document.createElement('div');
-    row.className = 'guess-row ' + status;
+    // Treat same-decade same as wrong — just show direction
+    var rowClass = status === 'correct' ? 'correct' : 'wrong';
+    row.className = 'guess-row ' + rowClass;
 
-    var emoji = '';
-    var label = '';
-    var arrow = '';
+    var content = '';
     if (status === 'correct') {
-        emoji = '🟢'; label = 'Correct!';
+        content = '<span class="guess-year">' + year + '</span><span class="guess-arrow">✅</span>';
     } else {
         var dir = getDirection(year, todayEvent.year);
-        arrow = dir === 'up' ? ' ⬆️' : ' ⬇️';
-        if (status === 'same-decade') {
-            emoji = '🟡'; label = 'Right decade' + arrow;
-        } else {
-            emoji = '🔴'; label = 'Wrong decade' + arrow;
-        }
+        var arrow = dir === 'up' ? '⬆️' : '⬇️';
+        content = '<span class="guess-year">' + year + '</span><span class="guess-arrow">' + arrow + '</span>';
     }
 
-    row.innerHTML =
-        '<span class="guess-number">#' + (index + 1) + '</span>' +
-        '<span class="guess-year">' + year + '</span>' +
-        '<span class="guess-feedback">' + emoji + ' ' + label + '</span>';
+    row.innerHTML = content;
     section.appendChild(row);
 }
 
 function getGuessStatus(guess, answer) {
     if (guess === answer) return 'correct';
-    var guessDecade = Math.floor(guess / 10);
-    var answerDecade = Math.floor(answer / 10);
-    if (guessDecade === answerDecade) return 'same-decade';
     return 'wrong';
 }
 
 function restoreUI() {
-    var section = document.getElementById('hintsSection');
-    section.innerHTML = '';
-
     // Show hints: one initial + one per wrong guess
     var hintsToShow = gameOver ? guesses.length : guesses.length + 1;
-    // But cap at available hints
     hintsToShow = Math.min(hintsToShow, todayEvent.hints.length);
-    for (var i = 0; i < hintsToShow; i++) {
-        showHint(i);
-    }
+    renderHints(hintsToShow);
 
     // Show guess rows
     for (var j = 0; j < guesses.length; j++) {
@@ -234,8 +256,7 @@ function showEndScreen() {
         } else {
             var dir = getDirection(guesses[i], todayEvent.year);
             var arrowEmoji = dir === 'up' ? '⬆️' : '⬇️';
-            if (s === 'same-decade') emojiStr += '🟨' + arrowEmoji;
-            else emojiStr += '🟥' + arrowEmoji;
+            emojiStr += '🟥' + arrowEmoji;
         }
     }
     guessesEl.textContent = emojiStr;
@@ -253,8 +274,7 @@ function shareResult() {
         } else {
             var dir = getDirection(guesses[i], todayEvent.year);
             var arrowEmoji = dir === 'up' ? '⬆️' : '⬇️';
-            if (s === 'same-decade') emojiStr += '🟨' + arrowEmoji;
-            else emojiStr += '🟥' + arrowEmoji;
+            emojiStr += '🟥' + arrowEmoji;
         }
     }
 
