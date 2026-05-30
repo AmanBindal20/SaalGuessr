@@ -893,821 +893,851 @@ var SAAL_DATA =
         {
             "year": 1941,
             "hints": [
-                "Ayyankali, the great social reformer from Kerala, died on 18 June",
-                "Rajendra Prasad laid the foundation stone of Scindia Shipyard at Visakhapatnam on 21 June",
-                "Ganganath Jha, the great Sanskrit scholar, died on 9 November",
-                "The 52nd session of the Indian National Congress was held",
-                "Rabindranath Tagore, Nobel laureate poet and composer, died on 7 August"
+                "The Hindustan Aircraft Company (later renamed HAL) was founded in Bangalore by industrialist Walchand Hirachand",
+                "The classic historical film 'Sikandar', starring Prithviraj Kapoor as Alexander the Great, was released",
+                "The Islamic political organization Jamaat-e-Islami was founded in British India by theologian Abul A'la Maududi",
+                "Nobel laureate Rabindranath Tagore passed away in Calcutta at the age of 80",
+                "Subhas Chandra Bose dramatically escaped from British house arrest in Calcutta, eventually fleeing to Germany"
             ]
         },
         {
             "year": 1942,
             "hints": [
-                "A devastating cyclone struck Bengal, contributing to the conditions that led to the 1943 famine",
-                "The first Indian National Army was formed under Captain Mohan Singh in Southeast Asia",
-                "The Cripps Mission arrived in India in March but failed to reach an agreement",
-                "Nearly all Congress leaders were arrested following the Quit India Resolution",
-                "Gandhi launched the Quit India Movement on 8 August with the call 'Do or Die'"
+                "The Council of Scientific and Industrial Research (CSIR) was formally established as an autonomous body",
+                "The blockbuster film 'Basant', starring Mumtaz Shanti, became the highest-grossing Indian film of the year",
+                "The first iteration of the Indian National Army (INA) was formed by Captain Mohan Singh in Singapore",
+                "The Cripps Mission arrived in India in a failed attempt to secure full Indian cooperation in World War II",
+                "Mahatma Gandhi launched the historic Quit India Movement, demanding an immediate end to British rule"
             ]
         },
         {
             "year": 1943,
             "hints": [
-                "Pervez Musharraf, future President of Pakistan, was born on 11 August",
-                "Howrah Bridge in Calcutta was commissioned on 3 February",
-                "The Bengal famine devastated the region, killing millions",
-                "Ilaiyaraaja, the legendary film composer, was born on 2 June",
-                "Subhas Chandra Bose established Azad Hind at Singapore on 21 October"
+                "The United Commercial Bank (UCO Bank) was founded in Kolkata by prominent industrialist G. D. Birla",
+                "The iconic Howrah Bridge over the Hooghly River was officially completed and opened to the public",
+                "The blockbuster film 'Kismet', starring Ashok Kumar, was released and became Indian cinema's first major anti-hero film",
+                "Subhas Chandra Bose officially proclaimed the formation of the Provisional Government of Free India (Azad Hind) in Singapore",
+                "The devastating Bengal Famine peaked, resulting in the tragic deaths of millions due to starvation and disease"
             ]
         },
         {
             "year": 1944,
             "hints": [
-                "Kasturba Gandhi, wife of Mahatma Gandhi, died on 22 February",
-                "Sharmila Tagore, the celebrated actress, was born on 8 December",
-                "The INA hoisted the Indian tricolour for the first time on mainland India at Moirang on 14 April",
-                "The Battle of Kohima was fought from April to June",
-                "Rajiv Gandhi, future Prime Minister of India, was born on 20 August"
+                "The 'Bombay Plan', a comprehensive set of proposals for the post-independence economy, was published by leading industrialists",
+                "The hit musical film 'Rattan', featuring highly popular music by Naushad, became the highest-grossing film of the year",
+                "The historic Gandhi-Jinnah talks were held in Malabar Hill, Bombay, but failed to reach an agreement on partition",
+                "The British Indian Army and Allied forces decisively defeated the Japanese in the crucial Battles of Imphal and Kohima",
+                "A massive accidental explosion on the freighter SS Fort Stikine completely devastated the Victoria Dock in Bombay"
             ]
         },
         {
             "year": 1945,
             "hints": [
-                "Azim Premji, the IT billionaire, was born on 24 July",
-                "Javed Akhtar, the celebrated poet and lyricist, was born on 17 January",
-                "Bajaj Auto came into existence on 29 November",
-                "World War II officially ended on 2 September, leaving Britain bankrupt",
-                "Subhas Chandra Bose was presumed dead in a plane crash in Taiwan on 18 August"
+                "The Tata Institute of Fundamental Research (TIFR) was established in Bombay by Homi J. Bhabha",
+                "The automobile giant Mahindra & Mahindra was originally incorporated as a steel trading company named Mahindra & Mohammed",
+                "The romantic drama 'Zeenat', directed by Shaukat Hussain Rizvi and starring Noor Jehan, became a massive box office hit",
+                "The Simla Conference was convened by Viceroy Lord Wavell in an attempt to agree on a plan for Indian self-government",
+                "The highly publicized Indian National Army (INA) treason trials officially began at the Red Fort in Delhi"
             ]
         },
         {
             "year": 1946,
             "hints": [
-                "N.R. Narayana Murthy, founder of Infosys, was born on 20 August",
-                "The Royal Indian Navy Mutiny began on 18 February",
-                "S.P. Balasubrahmanyam, the legendary playback singer, was born on 4 June",
-                "The XXXX Cabinet Mission arrived in India on 24 March",
-                "Direct Action Day on 16 August led to the Great Calcutta Killings with over 3,000 dead"
+                "The Tebhaga movement, a major peasant uprising demanding a greater share of the harvest, was initiated by the Kisan Sabha in Bengal",
+                "Chetan Anand's 'Neecha Nagar' made history by winning the Grand Prix du Festival International du Film at the first Cannes Film Festival",
+                "The newly formed Constituent Assembly of India convened for its historic first session in New Delhi",
+                "The Muslim League's call for 'Direct Action Day' sparked the infamous and deadly Great Calcutta Killings",
+                "Indian sailors of the Royal Indian Navy launched a massive mutiny and strike against British officers in Bombay"
             ]
         },
         {
             "year": 1947,
             "hints": [
-                "Lord Mountbatten arrived in India on 22 March as the last Viceroy",
-                "The Radcliffe Line partitioned Punjab and Bengal, triggering mass migration",
-                "Jawaharlal Nehru became the first Prime Minister",
-                "The Partition of India created Pakistan and triggered one of history's largest mass migrations",
-                "India gained independence on 15 August, ending British rule"
+                "Indian Standard Time (IST) was officially adopted as the unified national time for the country",
+                "The musical blockbuster 'Jugnu' was released, becoming the first major box office hit for legendary actor Dilip Kumar",
+                "The first Indo-Pakistani War erupted following a tribal invasion of the princely state of Jammu and Kashmir",
+                "The Radcliffe Line was officially published, legally demarcating the new borders between India and Pakistan",
+                "India officially gained independence from British rule, ending nearly 200 years of colonial control"
             ]
         },
         {
             "year": 1948,
             "hints": [
-                "J. Jayalalithaa, future Chief Minister of Tamil Nadu, was born on 24 February",
-                "Operation Polo was launched and the State of Hyderabad joined India in September",
-                "C. Rajagopalachari became Governor-General on 21 June",
-                "Nathuram Godse assassinated Mahatma Gandhi on 30 January",
-                "India fought its first war with Pakistan over Kashmir"
+                "The Atomic Energy Commission of India was formally established under the Department of Scientific Research",
+                "The classic Bombay Talkies film 'Ziddi' was released, officially launching Dev Anand as a leading star",
+                "The Indian men's hockey team won their first Olympic gold medal as an independent nation at the London Games",
+                "The Indian Armed Forces successfully executed Operation Polo, leading to the annexation of the princely state of Hyderabad",
+                "Mahatma Gandhi was tragically assassinated by Nathuram Godse at Birla House in New Delhi"
             ]
         },
         {
             "year": 1949,
             "hints": [
-                "Nathuram Godse and Narayan Apte were executed on 15 November",
-                "The Reserve Bank of India was nationalized on 1 January",
-                "The Dravida Munnetra Kazhagam (DMK) was formed on 17 September",
-                "India issued the London Declaration, enabling republics to stay in the Commonwealth",
-                "The Constituent Assembly adopted the Constitution of India on 26 November"
+                "The Reserve Bank of India (RBI) was officially nationalised, passing into full government ownership",
+                "The Karachi Agreement was signed by military representatives, officially establishing a ceasefire line in Jammu and Kashmir",
+                "The blockbuster film 'Mahal' was released, pioneering the reincarnation thriller genre and making Lata Mangeshkar a superstar",
+                "Nathuram Godse and Narayan Apte were executed by hanging at Ambala Central Jail",
+                "The Constituent Assembly formally adopted the completed Constitution of India on November 26"
             ]
         },
         {
             "year": 1950,
             "hints": [
-                "The Election Commission of India was established on 25 January",
-                "Dr. Rajendra Prasad became the first President of India",
-                "The Liaquat-Nehru Pact was signed between India and Pakistan in April",
-                "India became the first republic in the Commonwealth of Nations",
-                "The Constitution came into force on 26 January, making India a republic"
+                "The Election Commission of India was formally established to administer national and state election processes",
+                "The Supreme Court of India held its inaugural sitting, officially replacing the Federal Court of India",
+                "The historic Nehru-Liaquat Pact was signed in New Delhi to guarantee the rights of minorities in India and Pakistan",
+                "Sardar Vallabhbhai Patel, India's first Deputy Prime Minister and 'Iron Man', passed away in Bombay",
+                "The Constitution of India officially came into effect, transforming the nation into a sovereign republic"
             ]
         },
         {
             "year": 1951,
             "hints": [
-                "Mammootty, the legendary Malayalam actor, was born on 7 September",
-                "The Central Statistical Organisation was established",
-                "The First Amendment of the Constitution of India was passed on 18 June",
-                "The Salar Jung Museum was opened by Prime Minister Nehru on 16 December",
-                "The first Asian Games were held in Delhi from 4–11 March"
+                "The first Indian Institute of Technology (IIT) was officially established in Kharagpur",
+                "The First Amendment to the Constitution of India was passed, notably introducing the Ninth Schedule to protect certain laws from judicial review",
+                "Raj Kapoor's iconic film 'Awaara' was released, later becoming a massive international success in the Soviet Union and China",
+                "New Delhi successfully hosted the inaugural edition of the Asian Games at the Dhyan Chand National Stadium",
+                "India officially launched its first-ever Five-Year Plan under the leadership of Prime Minister Jawaharlal Nehru"
             ]
         },
         {
             "year": 1952,
             "hints": [
-                "Rishi Kapoor, the beloved actor, was born on 4 September",
-                "Sushma Swaraj, future politician and minister, was born on 14 February",
-                "India played its first post-independence Test cricket match against Pakistan on 16 October",
-                "G.V. Mavlankar became the first Speaker of the Lok Sabha on 15 May",
-                "The Indian National Congress swept into power in India's first general election"
+                "The National Development Council (NDC) was officially set up as the apex body for decision-making on development matters",
+                "Mehboob Khan's 'Aan' was released, making history as India's first successful full-length Technicolor feature film",
+                "K. D. Jadhav won a bronze medal in wrestling at the Helsinki Games, becoming independent India's first individual Olympic medalist",
+                "The Rajya Sabha, the upper house of the Parliament of India, held its first-ever formal sitting",
+                "The Indian National Congress won a massive majority as the country's first-ever general elections formally concluded"
+            ]
+        },
+        {
+            "year": 1953,
+            "hints": [
+                "The University Grants Commission (UGC) was formally inaugurated by Maulana Abul Kalam Azad",
+                "The Indian Parliament passed the Air Corporations Act, effectively nationalising the country's aviation industry and Air India",
+                "Bimal Roy's neorealist masterpiece 'Do Bigha Zamin' was released, later winning the International Prize at the Cannes Film Festival",
+                "Andhra State was officially carved out of the Madras State, becoming India's first state created on a linguistic basis",
+                "Sherpa Tenzing Norgay and Edmund Hillary made history as the first climbers to successfully summit Mount Everest"
             ]
         },
         {
             "year": 1954,
             "hints": [
-                "Kamal Haasan, the legendary actor, was born on 7 November",
-                "Kailash Satyarthi, future Nobel Peace Prize co-recipient, was born on 11 January",
-                "The Bhakra-Nangal Dam was inaugurated on 8 July",
-                "India and China signed the Five Principles of Peaceful Coexistence (Panchsheel) on 29 April",
-                "The first Bharat Ratna awards were given to C. Rajagopalachari, Radhakrishnan and C.V. Raman"
+                "The Sahitya Akademi was formally inaugurated by the Government of India to promote literature in Indian languages",
+                "The inaugural State Awards for Films (now the National Film Awards) were presented, with 'Shyamchi Aai' winning Best Feature",
+                "The Special Marriage Act was enacted, allowing inter-religious and civil marriages for all citizens of India",
+                "Prime Minister Jawaharlal Nehru and Chinese Premier Zhou Enlai officially signed the Panchsheel Agreement in Beijing",
+                "The Government of India formally instituted the Bharat Ratna, the nation's highest civilian honor"
+            ]
+        },
+        {
+            "year": 1955,
+            "hints": [
+                "The Untouchability (Offences) Act was enacted by Parliament, prescribing severe penalties for the practice of untouchability",
+                "The landmark Hindu Marriage Act was passed, significantly reforming and codifying Hindu personal law",
+                "Soviet leaders Nikita Khrushchev and Nikolai Bulganin made a historic and highly publicized state visit to India",
+                "The Imperial Bank of India was formally nationalised and renamed as the State Bank of India (SBI)",
+                "Satyajit Ray's critically acclaimed debut film, 'Pather Panchali', premiered, placing Indian parallel cinema on the global map"
             ]
         },
         {
             "year": 1956,
             "hints": [
-                "Anil Kapoor, the celebrated actor, was born on 24 December",
-                "Asia's first nuclear reactor, Apsara, was built at Bhabha Atomic Research Centre on 4 August",
-                "LIC of India was formed on 1 September",
-                "Dr. B.R. Ambedkar converted to Buddhism along with 385,000 followers on 14 October",
-                "The States Reorganisation Act reformed the boundaries and names of Indian states on 1 November"
+                "The All India Institute of Medical Sciences (AIIMS) was formally established in New Delhi as an autonomous institution",
+                "The Life Insurance Corporation of India (LIC) was created following the nationalisation of the life insurance sector",
+                "'Apsara', Asia's very first nuclear research reactor, officially went critical at the Bhabha Atomic Research Centre in Trombay",
+                "B. R. Ambedkar publicly converted to Buddhism with massive numbers of followers, shortly before his passing in December",
+                "The States Reorganisation Act was passed, dramatically redrawing the country's internal boundaries along linguistic lines"
             ]
         },
         {
             "year": 1957,
             "hints": [
-                "V.S. Wakankar discovered the Bhimbetka rock shelter cave paintings",
-                "India adopted decimalisation of the rupee, discontinuing the anna coin system on 1 April",
-                "The Hirakud Dam was opened",
-                "The Communist Party of India won elections in Kerala, forming the first elected communist government",
-                "The iconic films Mother India, Pyaasa and Naya Daur were all released"
+                "The National Calendar of India, based on the historic Saka Era, was officially adopted",
+                "India officially transitioned to a decimalised currency system, introducing the 'Naya Paisa'",
+                "The Indian Navy formally acquired its first aircraft carrier, INS Vikrant (originally HMS Hercules), from the United Kingdom",
+                "E. M. S. Namboodiripad led the CPI to victory in Kerala, forming the world's first democratically elected communist government",
+                "Mehboob Khan's legendary epic 'Mother India' was released, later becoming India's first-ever submission for the Academy Awards"
             ]
         },
         {
             "year": 1958,
             "hints": [
-                "Milkha Singh won a gold medal in athletics",
-                "Mother India became the first Indian film nominated for an Academy Award on 26 March",
-                "Milkha Singh won gold at the Commonwealth Games in Cardiff, becoming the first Indian to win an individual athletics gold at the Games",
-                "DRDO (Defence Research and Development Organisation) was established on 1 January",
-                "The Armed Forces (Special Powers) Act was passed on 11 September"
+                "The Defence Research and Development Organisation (DRDO) was established by amalgamating various military research establishments",
+                "The highly controversial Armed Forces (Special Powers) Act, or AFSPA, was enacted by the Parliament",
+                "Mihir Sen became the first Indian to successfully swim across the English Channel from Dover to Calais",
+                "Bimal Roy's classic 'Madhumati', starring Dilip Kumar and Vyjayanthimala, was released and swept the Filmfare Awards",
+                "Milkha Singh made history by winning India's first-ever individual track and field gold medal at the Commonwealth Games in Cardiff"
             ]
         },
         {
             "year": 1959,
             "hints": [
-                "Sanjay Dutt, the Bollywood star, was born on 29 July",
-                "Kapil Dev, legendary cricketer, was born on 6 January",
-                "C. Rajagopalachari and N.G. Ranga founded the Swatantra Party on 4 June",
-                "Indira Gandhi became president of the Indian National Congress on 9 February",
-                "India granted political asylum to the Dalai Lama on 31 March after the Tibetan uprising"
+                "C. Rajagopalachari formally founded the conservative, pro-free-market Swatantra Party to directly oppose the ruling Congress",
+                "Doordarshan began its first experimental public television broadcasts in New Delhi using a small transmitter",
+                "Guru Dutt's ambitious semi-autobiographical film 'Kaagaz Ke Phool' was released, initially becoming a major box-office disaster",
+                "Prime Minister Jawaharlal Nehru officially inaugurated the modern Panchayati Raj system in Nagaur, Rajasthan",
+                "The 14th Dalai Lama successfully fled the Tibetan uprising and sought political asylum in India"
             ]
         },
         {
             "year": 1960,
             "hints": [
-                "Mohanlal, the legendary Malayalam actor, was born on 21 May",
-                "Feroze Gandhi, politician and husband of Indira Gandhi, died on 8 September",
-                "Air India entered the United States with flights to New York",
-                "The epic film Mughal-e-Azam was released and became the top-grossing Hindi film",
-                "Gujarat and Maharashtra were formed from the State of Bombay on 1 May"
+                "The Border Roads Organisation (BRO) was established to develop and maintain strategic road networks in India's border areas",
+                "Milkha Singh tragically missed out on an Olympic bronze medal by a fraction of a second in the 400m final in Rome",
+                "K. Asif's historical magnum opus 'Mughal-e-Azam' was released, shattering all previous Indian box office records",
+                "The historic Indus Waters Treaty was signed in Karachi by Prime Minister Jawaharlal Nehru and President Ayub Khan",
+                "The Bombay Reorganisation Act came into effect, officially splitting the state into the linguistic states of Maharashtra and Gujarat"
             ]
         },
         {
             "year": 1961,
             "hints": [
-                "Panshet Dam burst in Pune on 12 July, causing massive flooding and killing over 1,000",
-                "INS Vikrant, the first aircraft carrier of the Indian Navy, was commissioned on 4 March",
-                "Queen Elizabeth II began a Royal visit to India on 20 January",
-                "The Hungry Generation literary movement was launched in Calcutta on 1 November",
-                "Goa was officially ceded to India after 400 years of Portuguese rule on 17–19 December"
+                "The Ministry of Youth Affairs and Sports formally instituted the Arjuna Awards to recognize outstanding achievements in national sports",
+                "The Dowry Prohibition Act was passed by Parliament, officially criminalizing the giving or receiving of dowries",
+                "The National Council of Educational Research and Training (NCERT) was established by the Government of India",
+                "The classic dacoit drama 'Gunga Jumna', starring Dilip Kumar in one of his most celebrated roles, became a massive blockbuster",
+                "The Indian Armed Forces successfully executed Operation Vijay to officially liberate Goa, Daman, and Diu from Portuguese rule"
             ]
         },
         {
             "year": 1962,
             "hints": [
-                "Kalpana Chawla, the first Indian woman in space, was born on 17 March",
-                "The Indian National Committee for Space Research was set up with Vikram Sarabhai leading it",
-                "Emergency was enforced in India for the first time on 26 October",
-                "China withdrew troops from Arunachal Pradesh and ordered a ceasefire on 21 November",
-                "The Sino-Indian War began in October after a border dispute erupted into fighting"
+                "The Indian National Committee for Space Research (INCOSPAR), the direct predecessor to ISRO, was officially established",
+                "The Indian national football team won the gold medal at the Asian Games in Jakarta, defeating South Korea in the final",
+                "Dr. Sarvepalli Radhakrishnan was elected as the second President of India, succeeding Dr. Rajendra Prasad",
+                "The critically acclaimed classic 'Sahib Bibi Aur Ghulam', produced by Guru Dutt and starring Meena Kumari, was released",
+                "The month-long Sino-Indian War broke out along the Himalayan border, ending in a decisive military defeat for India"
             ]
         },
         {
             "year": 1963,
             "hints": [
-                "Sridevi, the iconic actress, was born on 13 August",
-                "Raju Srivastav, the beloved comedian, was born on 25 December",
-                "The Kendriya Vidyalaya Sangathan was established on 15 December",
-                "The Holy Relic was stolen from the Hazratbal Shrine on 27 December",
-                "India's first rocket was launched from Thumba, Thiruvananthapuram on 21 November"
+                "The Central Bureau of Investigation (CBI) was formally established through a resolution by the Ministry of Home Affairs",
+                "Prime Minister Jawaharlal Nehru officially dedicated the massive Bhakra-Nangal Dam project to the nation",
+                "Bimal Roy's final masterpiece, 'Bandini', starring Nutan in a universally acclaimed performance, swept the Filmfare Awards",
+                "Nagaland was formally inaugurated as the 16th state of the Indian Union",
+                "India's space programme officially began with the successful launch of a Nike-Apache sounding rocket from Thumba, Kerala"
             ]
         },
         {
             "year": 1964,
             "hints": [
-                "Guru Dutt, the legendary filmmaker, died on 10 October",
-                "Amit Shah, future politician, was born on 22 October",
-                "The Vishva Hindu Parishad was founded on 29 August",
-                "The Communist Party of India split on 11 April",
-                "Prime Minister Jawaharlal Nehru died on 27 May and was succeeded by Lal Bahadur Shastri"
+                "The Unit Trust of India (UTI) and the Industrial Development Bank of India (IDBI) were officially established",
+                "The Communist Party of India (CPI) suffered a massive formal split, leading to the creation of the CPI(M)",
+                "Chetan Anand's 'Haqeeqat', widely considered one of India's greatest war films, was released",
+                "The Indian men's hockey team won the gold medal at the Tokyo Olympics, defeating arch-rivals Pakistan in the final",
+                "Jawaharlal Nehru, independent India's first and longest-serving Prime Minister, passed away in office"
             ]
         },
         {
             "year": 1965,
             "hints": [
-                "Aamir Khan, the celebrated actor, was born on 14 March",
-                "The Border Security Force was formed on 1 December",
-                "A mining accident in Dhanbad killed 274 on 29 May",
-                "Anti-Hindi agitations broke out, keeping Hindi as one of two official languages rather than the national language",
-                "A full-scale Indo-Pakistani war was fought over Kashmir from August to September"
+                "The Food Corporation of India (FCI) was officially established to ensure national food security and manage grain procurement",
+                "Violent anti-Hindi agitation protests erupted across Madras State over the imposition of Hindi as the sole official language",
+                "The Border Security Force (BSF) was formally established to ensure the security of India's international borders",
+                "The classic romantic drama 'Guide', starring Dev Anand and Waheeda Rehman, was released to massive critical and commercial success",
+                "A major all-out war was fought between India and Pakistan, culminating in tank battles at Asal Uttar and a UN-mandated ceasefire"
             ]
         },
         {
             "year": 1966,
             "hints": [
-                "Reita Faria became the first Indian to win the Miss World title on 17 November",
-                "Shiv Sena was founded by Bal Thackeray on 19 June",
-                "Indira Gandhi devalued the Indian rupee by 36% on 6 June",
-                "Homi J. Bhabha died when Air India Flight 101 crashed into Mont Blanc on 24 January",
-                "PM Lal Bahadur Shastri died in Tashkent on 11 January and Indira Gandhi became Prime Minister"
+                "Reita Faria made history by becoming the first Indian, and the first Asian, to win the Miss World title",
+                "Bal Thackeray formally founded the right-wing, Marathi-ethnocentric political party Shiv Sena in Bombay",
+                "The smash-hit musical thriller 'Teesri Manzil', featuring an iconic soundtrack by R. D. Burman, was released",
+                "The Tashkent Declaration was formally signed by India and Pakistan to restore normal diplomatic and peaceful relations",
+                "Indira Gandhi was sworn in as the first female Prime Minister of India following the sudden death of Lal Bahadur Shastri"
             ]
         },
         {
             "year": 1967,
             "hints": [
-                "Indian and Chinese troops clashed at Nathu La and Cho La in Sikkim in September–October",
-                "Goa voted in a referendum not to merge with Maharashtra on 16 January",
-                "Zakir Husain became the first Muslim President of India on 13 May",
-                "India and Myanmar signed a border agreement on 10 March",
-                "The Naxalite insurgency began with a peasant uprising in Naxalbari, West Bengal on 27 May"
+                "Sitar maestro Pandit Ravi Shankar won his first-ever Grammy Award for the album 'West Meets East'",
+                "Indian and Chinese forces engaged in deadly, high-altitude military clashes at Nathu La and Cho La in Sikkim",
+                "Dr. Zakir Husain was elected as the third President of India, becoming the first Muslim to hold the highest office",
+                "A radical left-wing peasant uprising in a small West Bengal village gave birth to the national Naxalite movement",
+                "The general elections resulted in the ruling Congress party losing power in several major states for the very first time"
             ]
         },
         {
             "year": 1968,
             "hints": [
-                "The Kilvenmani massacre saw 44 Dalits burnt to death in Tamil Nadu on 25 December",
-                "Tata Consultancy Services was established on 1 April",
-                "Auroville was established in Pondicherry on 29 February",
-                "The Beatles visited Maharishi Mahesh Yogi's ashram in Rishikesh on 20 February",
-                "The three-language formula was introduced through the National Policy on Education"
+                "The Public Provident Fund (PPF) scheme was officially introduced by the Ministry of Finance to mobilize small savings",
+                "Indian-American biochemist Har Gobind Khorana jointly won the Nobel Prize in Physiology or Medicine",
+                "India's external intelligence agency, the Research and Analysis Wing (R&AW), was formally established under R. N. Kao",
+                "The classic comedy film 'Padosan', starring Sunil Dutt, Saira Banu, and Kishore Kumar, was released",
+                "The Indira Gandhi government officially promulgated India's first-ever National Policy on Education"
             ]
         },
         {
             "year": 1969,
             "hints": [
-                "Viswanathan Anand, future World Chess Champion, was born on 11 December",
-                "The Indian Space Research Organisation (ISRO) was set up",
-                "Madras State was renamed Tamil Nadu on 14 January",
-                "Madhubala, the iconic actress, died on 23 February",
-                "14 major private banks were nationalized on 19 July"
+                "India's first-ever Rajdhani Express train officially commenced its inaugural run between New Delhi and Howrah",
+                "The Indian Space Research Organisation (ISRO) was formally established, superseding the INCOSPAR committee",
+                "The musical blockbuster 'Aradhana' was released, instantly catapulting Rajesh Khanna to unprecedented national superstardom",
+                "The Indian National Congress suffered a massive formal split between Prime Minister Indira Gandhi and the 'Syndicate'",
+                "The Indira Gandhi government passed a landmark ordinance to suddenly nationalise 14 of the country's largest commercial banks"
             ]
         },
         {
             "year": 1970,
             "hints": [
-                "Anil Kumble, legendary cricketer, was born on 17 October",
-                "Rahul Gandhi, future Congress leader, was born on 19 June",
-                "M. Night Shyamalan, the Indian-American filmmaker, was born on 6 August",
-                "President V.V. Giri opened the Vivekananda Rock Memorial on 2 September",
-                "Bajaj Auto rolled out its 100,000th vehicle"
+                "The landmark Patents Act was passed, ending product monopolies in pharmaceuticals and revolutionizing the generic drug industry",
+                "The iconic Vivekananda Rock Memorial in Kanyakumari was officially completed and opened to the public",
+                "Raj Kapoor's highly ambitious, semi-autobiographical magnum opus 'Mera Naam Joker' was released, initially becoming a critical and commercial failure",
+                "A highly controversial Presidential order attempted to suddenly abolish the 'Privy Purses' of erstwhile royals, sparking massive legal battles",
+                "The National Dairy Development Board officially launched 'Operation Flood', initiating India's transformative White Revolution"
             ]
         },
         {
             "year": 1971,
             "hints": [
-                "Himachal Pradesh became the 18th Indian state on 25 January",
-                "The Privy Purse was abolished through the 26th Amendment on 31 July",
-                "India acknowledged Bangladesh as a free and sovereign state on 6 December",
-                "INS Rajput sank the Pakistani submarine PNS Ghazi on 3 December",
-                "India and Pakistan fought a war over East Pakistan, ending with 93,000 Pakistani troops surrendering and the creation of Bangladesh"
+                "The Medical Termination of Pregnancy (MTP) Act was passed by the Parliament",
+                "The classic drama film 'Anand', starring Rajesh Khanna and Amitabh Bachchan, was released",
+                "India won its first-ever Test cricket series in England under the captaincy of Ajit Wadekar",
+                "Indira Gandhi won a massive electoral mandate on the back of her famous 'Garibi Hatao' slogan",
+                "The Indo-Pak War resulted in the decisive surrender of Pakistani forces and the creation of Bangladesh"
             ]
         },
         {
             "year": 1972,
             "hints": [
-                "M.G. Ramachandran formed the AIADMK by splitting from the DMK on 17 October",
-                "Manipur, Tripura and Meghalaya gained statehood on 21 January",
-                "The Postal Index Number (PIN Code) was introduced on 15 August",
-                "India and Bangladesh signed a friendship treaty on 19 March",
-                "India and Pakistan signed the historic Simla Agreement on 2 July"
+                "The Wildlife (Protection) Act was enacted to safeguard the nation's flora and fauna",
+                "The Department of Space (DoS) was formally established to oversee the nation's space program",
+                "The iconic film 'Pakeezah' was released shortly before the tragic death of its lead actress, Meena Kumari",
+                "The states of Meghalaya, Tripura, and Manipur were officially granted full statehood",
+                "Prime Minister Indira Gandhi and Zulfikar Ali Bhutto signed the historic Simla Agreement"
             ]
         },
         {
             "year": 1973,
             "hints": [
-                "The State of Mysore was renamed Karnataka on 1 November",
-                "The Chipko movement began in Garhwal under the leadership of Chandi Prasad Bhatt",
-                "Atal Bihari Vajpayee drove a bullock cart to Parliament to protest fuel price hikes on 12 November",
-                "The Supreme Court upheld the basic structure doctrine in the Kesavananda Bharati case on 24 April",
-                "The iconic films Bobby and Zanjeer were both released"
+                "Project Tiger was launched at the Jim Corbett National Park to protect the endangered Bengal tiger",
+                "The Supreme Court delivered the landmark Kesavananda Bharati judgment outlining the 'basic structure' doctrine",
+                "The state of Mysore was officially renamed as Karnataka",
+                "The hit film 'Zanjeer' was released, officially establishing Amitabh Bachchan's 'Angry Young Man' persona",
+                "The Chipko Movement began in the Garhwal Himalayas with villagers hugging trees to prevent deforestation"
             ]
         },
         {
             "year": 1974,
             "hints": [
-                "Gaura Devi and 27 women confronted loggers in Chamoli as part of the Chipko movement on 25 March",
-                "The Bihar Movement was launched by Jayaprakash Narayan against corruption on 18 March",
-                "A railway strike by 1.7 million workers became the largest recorded industrial action in the world",
-                "Drillship Sagar Samrat struck oil at Bombay High on 19 February",
-                "India detonated its first nuclear weapon under Project Smiling Buddha on 18 May"
+                "The Water (Prevention and Control of Pollution) Act was enacted by the Parliament",
+                "The disputed Kachchatheevu island was ceded to Sri Lanka through an Indo-Sri Lankan maritime agreement",
+                "A massive nationwide railway strike led by George Fernandes brought the transport network to a halt",
+                "Fakhruddin Ali Ahmed was elected as the fifth President of India",
+                "India successfully conducted its first nuclear test, code-named 'Smiling Buddha', at Pokhran"
             ]
         },
         {
             "year": 1975,
             "hints": [
-                "The Chasnala mining disaster killed 375 people on 27 December",
-                "India won the Men's Hockey World Cup for the first time",
-                "India's first satellite, Aryabhata, was launched into orbit on 19 April",
-                "Sikkim became an Indian state through the 35th Constitutional Amendment",
-                "Indira Gandhi declared a State of Emergency on 25 June, censoring the press and jailing 100,000"
+                "The inaugural World Hindi Conference was hosted in Nagpur",
+                "Sikkim officially became the 22nd state of the Indian Union following a referendum",
+                "India launched its first indigenous satellite, Aryabhata, using a Soviet Kosmos-3M rocket",
+                "The monumental blockbuster film 'Sholay' was released and rewrote Indian box office history",
+                "Prime Minister Indira Gandhi officially declared a state of National Emergency"
             ]
         },
         {
             "year": 1976,
             "hints": [
-                "Subramanian Swamy was expelled from Rajya Sabha for campaigning against the Emergency abroad",
-                "Indian Airlines Flight 171 crashed in Bombay killing all 95 on board on 12 October",
-                "George Fernandes was arrested from Calcutta during the Emergency on 10 June",
-                "A controversial forced sterilisation programme was carried out, largely blamed on Sanjay Gandhi",
-                "The 42nd Amendment Act was enacted during the Emergency"
+                "The Bonded Labour System (Abolition) Act was enacted by the Parliament",
+                "The Urban Land (Ceiling and Regulation) Act was passed to prevent the concentration of urban landholdings",
+                "Doordarshan was officially separated from All India Radio to function as an independent television network",
+                "The Indian Coast Guard was established as an interim organization to protect maritime interests",
+                "The 42nd Amendment Act was passed, controversially adding 'Socialist' and 'Secular' to the Preamble"
             ]
         },
         {
             "year": 1977,
             "hints": [
-                "M.G. Ramachandran became the first film actor to be Chief Minister of an Indian state on 30 June",
-                "Over 10,000 people died when a cyclone hit India's southeast coast on 20 November",
-                "The Belchhi massacre saw 11 villagers brutally murdered in Bihar on 27 May",
-                "Indira Gandhi announced dissolution of the Lok Sabha on 18 January",
-                "Morarji Desai became PM as the first non-Congress government swept to power on 24 March"
+                "Michael Ferreira won his first World Amateur Billiards Championship",
+                "The acclaimed parallel cinema film 'Bhumika', starring Smita Patil, won two National Film Awards",
+                "Neelam Sanjiva Reddy was elected entirely unopposed as the President of India",
+                "The controversial 21-month National Emergency was officially revoked",
+                "Morarji Desai became the first non-Congress Prime Minister of India, leading the Janata Party government"
+            ]
+        },
+        {
+            "year": 1978,
+            "hints": [
+                "India's first documented test-tube baby, Durga (Kanupriya Agarwal), was born in Kolkata",
+                "Prakash Padukone won India's first-ever badminton gold medal at the Commonwealth Games in Edmonton",
+                "The cult classic mafia film 'Don', starring Amitabh Bachchan, became a massive box office success",
+                "The Morarji Desai government abruptly demonetised ₹1,000, ₹5,000, and ₹10,000 currency notes",
+                "The 44th Amendment Act was passed, permanently removing the Right to Property from the list of fundamental rights"
             ]
         },
         {
             "year": 1979,
             "hints": [
-                "Vidya Balan, the celebrated actress, was born on 1 January",
-                "The Morvi dam burst in Gujarat killed between 1,500 and 15,000 people on 11 August",
-                "Charan Singh became Prime Minister with outside support of Congress(I) on 28 July",
-                "The Mandal Commission was officially set up on 1 January",
-                "Mother Teresa was awarded the Nobel Peace Prize on 10 December"
+                "The Rohini Technology Payload became the first experimental satellite launched by the indigenous SLV-3",
+                "The landmark comedy film 'Gol Maal', directed by Hrishikesh Mukherjee, was released to immense acclaim",
+                "The Mandal Commission was officially established to identify socially and educationally backward classes",
+                "Mother Teresa was awarded the Nobel Peace Prize for her humanitarian work in Calcutta",
+                "Charan Singh briefly became the Prime Minister of India following the collapse of the Janata government"
             ]
         },
         {
             "year": 1980,
             "hints": [
-                "Kareena Kapoor, the Bollywood star, was born on 21 September",
-                "The Bharatiya Janata Party (BJP) was formed on 5 April",
-                "SLV-3 was successfully launched from Sriharikota on 18 July",
-                "Sanjay Gandhi was killed in a plane crash near Safdarjung Airport on 23 June",
-                "Indira Gandhi returned to power on 14 January"
+                "The Forest (Conservation) Act was enacted to strictly regulate the diversion of forest lands for non-forest use",
+                "Prakash Padukone became the first Indian to win the prestigious All England Open Badminton Championships",
+                "Sanjay Gandhi died in a tragic private plane crash near Safdarjung Airport in New Delhi",
+                "The Indian men's hockey team won their eighth, and last, Olympic gold medal at the Moscow Games",
+                "Indira Gandhi returned to power as Prime Minister following a sweeping victory in the general elections"
             ]
         },
         {
             "year": 1981,
             "hints": [
-                "Mahendra Singh Dhoni, legendary cricketer, was born on 7 July",
-                "About 308 people died in Bangalore after drinking illicit liquor in July",
-                "Around 45 people died in a stampede at Qutb Minar on 4 December",
-                "Gautam Gambhir, cricketer and politician, was born on 14 October",
-                "Infosys was founded in Pune on 2 July"
+                "The experimental communication satellite APPLE was successfully launched on an Ariane rocket",
+                "IT giant Infosys was founded by N. R. Narayana Murthy and six other engineers in Pune",
+                "The landmark romantic tragedy 'Ek Duuje Ke Liye' marked the highly successful Bollywood debut of Kamal Haasan",
+                "The infamous Behmai massacre was carried out by the bandit gang led by Phoolan Devi",
+                "A catastrophic passenger train derailment into the Bagmati River in Bihar killed hundreds in one of India's worst rail disasters"
             ]
         },
         {
             "year": 1982,
             "hints": [
-                "Priyanka Chopra, actress and Miss World 2000, was born on 18 July",
-                "Allu Arjun, the celebrated actor, was born on 8 April",
-                "Doordarshan began testing colour television broadcast on 25 April",
-                "Manmohan Singh became Governor of the Reserve Bank of India on 16 September",
-                "The 9th Asian Games were held in Delhi from 19 November to 4 December"
+                "The National Bank for Agriculture and Rural Development (NABARD) was officially established",
+                "Zail Singh was elected as the seventh President of India, becoming the first Sikh to hold the office",
+                "The musical film 'Disco Dancer' released, propelling Mithun Chakraborty to international stardom across Asia and the Soviet Union",
+                "Amitabh Bachchan suffered a highly publicized, near-fatal intestinal injury while shooting the film 'Coolie'",
+                "The Asian Games were hosted in New Delhi, coinciding with the nationwide launch of color television broadcasting"
             ]
         },
         {
             "year": 1983,
             "hints": [
-                "Dhanush, the celebrated actor, was born on 28 July",
-                "The Nellie massacre killed over 2,000 people during the Assam agitation on 18 February",
-                "Bandit queen Phoolan Devi surrendered in February",
-                "Kapil Dev led the team to a historic victory at Lord's on 25 June",
-                "India won the Cricket World Cup for the first time"
+                "The Maruti 800, India's first mass-produced affordable car, was officially launched",
+                "Bhanu Athaiya became the first Indian to win an Academy Award for her costume design in 'Gandhi'",
+                "The cult classic satire film 'Jaane Bhi Do Yaaro' premiered, redefining Indian dark comedy",
+                "The devastating Nellie massacre took place in Assam, resulting in the deaths of over 2,000 people",
+                "Kapil Dev led India to its historic first Cricket World Cup title, defeating the mighty West Indies at Lord's"
             ]
         },
         {
             "year": 1984,
             "hints": [
-                "Bachendri Pal became the first Indian woman to summit Mount Everest on 23 May",
-                "Rakesh Sharma became the first Indian in space aboard Soyuz T-11 on 2 April",
-                "Indian troops stormed the Golden Temple at Amritsar during Operation Blue Star on 4 June",
-                "Anti-Sikh riots erupted across India following the assassination",
-                "Prime Minister Indira Gandhi was assassinated on 31 October by her bodyguards"
+                "Bachendri Pal made history by becoming the first Indian woman to reach the summit of Mount Everest",
+                "Rakesh Sharma became the first Indian citizen to travel into space aboard the Soviet Soyuz T-11 mission",
+                "The Indian Army launched Operation Blue Star to remove militants from the Golden Temple in Amritsar",
+                "Prime Minister Indira Gandhi was assassinated by her own bodyguards in New Delhi",
+                "The catastrophic Bhopal gas tragedy occurred at the Union Carbide pesticide plant, killing thousands overnight"
             ]
         },
         {
             "year": 1985,
             "hints": [
-                "India won the first World Championship of Cricket in Australia on 10 March",
-                "The Shah Bano case verdict was delivered on 23 April",
-                "Anti-reservation protests in Gujarat turned into six months of riots",
-                "Air India Flight 182 was blown up over the Atlantic on 23 June, killing 329",
-                "The Rajiv-Longowal Accord was signed to end the Punjab crisis"
+                "The Narcotic Drugs and Psychotropic Substances (NDPS) Act was enacted by the Parliament",
+                "The Indira Gandhi National Open University (IGNOU) was formally established by an Act of Parliament",
+                "The historic Assam Accord was signed between the Government of India and leaders of the Assam Movement",
+                "India won the Benson & Hedges World Championship of Cricket, defeating Pakistan in the final in Melbourne",
+                "Air India Flight 182 (Kanishka) was destroyed mid-air by a terrorist bomb off the coast of Ireland, killing all 329 aboard"
             ]
         },
         {
             "year": 1986,
             "hints": [
-                "The first HIV/AIDS cases in India were discovered by two doctors in Madras",
-                "The Mizoram Peace Accord was signed on 30 June",
-                "The Muslim Women (Protection of Rights on Divorce) Act was passed",
-                "The Bofors deal contract was signed on 24 March for 410 Howitzer field guns",
-                "The locks of the disputed Ram Janmabhoomi-Babri Masjid were opened on 1 February"
+                "The Consumer Protection Act (COPRA) was formally enacted to establish consumer dispute redressal agencies",
+                "The Indian Speed Post service was officially introduced by the Department of Posts",
+                "The historic Environment (Protection) Act was passed by Parliament in the aftermath of the Bhopal disaster",
+                "P. T. Usha dominated the Seoul Asian Games by winning four track and field gold medals",
+                "The government controversially passed the Muslim Women (Protection of Rights on Divorce) Act, effectively overturning the Shah Bano judgment"
             ]
         },
         {
             "year": 1987,
             "hints": [
-                "The Hashimpura massacre took place on 22 May",
-                "Goa was elevated as India's 25th state on 30 May",
-                "Sunil Gavaskar became the first man to score 10,000 runs in Test cricket on 7 March",
-                "V.P. Singh resigned as Defence Minister after disclosing kickbacks in defence deals",
-                "The Indo-Sri Lanka Accord was signed on 29 July"
+                "The state of Goa was officially granted full statehood, separating it from the union territory of Daman and Diu",
+                "The legendary epic television series 'Ramayan', directed by Ramanand Sagar, began its historic broadcast on Doordarshan",
+                "Sunil Gavaskar became the first cricketer in history to score 10,000 runs in Test match cricket",
+                "India and Sri Lanka signed a major peace accord, leading to the deployment of the Indian Peace Keeping Force (IPKF)",
+                "The Bofors scandal broke out on Swedish radio, implicating high-ranking Indian officials in massive defense kickbacks"
             ]
         },
         {
             "year": 1988,
             "hints": [
-                "Viswanathan Anand became India's first chess Grandmaster on 7 January",
-                "Legendary actor and filmmaker Raj Kapoor died on 2 June",
-                "Operation Black Thunder was conducted in May to flush out militants from the Golden Temple",
-                "A devastating 6.9 magnitude earthquake struck Bihar on 21 August, killing hundreds",
-                "The SEBI (Securities and Exchange Board of India) was established on 12 April"
+                "The Securities and Exchange Board of India (SEBI) was established as a non-statutory body to regulate capital markets",
+                "The hit romance film 'Qayamat Se Qayamat Tak' marked the debut of Aamir Khan and rejuvenated Bollywood music",
+                "Viswanathan Anand made history by becoming India's first-ever chess Grandmaster",
+                "The voting age in India was officially reduced from 21 to 18 years through the 61st Constitutional Amendment",
+                "The Indian Armed Forces successfully executed Operation Cactus to thwart a mercenary coup in the Maldives"
             ]
         },
         {
             "year": 1989,
             "hints": [
-                "The political discourse shifted with the rise of Hindu nationalism and Kashmir militancy",
-                "Satwant Singh and Kehar Singh were hanged for the assassination of Indira Gandhi on 6 January",
-                "The blockbuster Maine Pyar Kiya launched Salman Khan's career",
-                "The era of single-party rule ended as coalition politics began",
-                "V.P. Singh became Prime Minister on 2 December, ending Rajiv Gandhi's tenure"
+                "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act was passed by Parliament",
+                "The romantic blockbuster 'Maine Pyar Kiya' was released, turning Salman Khan into a nationwide sensation",
+                "A 16-year-old Sachin Tendulkar made his international cricket debut against Pakistan in Karachi",
+                "The foundation stone (Shilanyas) for the Ram temple in Ayodhya was formally laid by the VHP",
+                "V. P. Singh was sworn in as Prime Minister after the National Front defeated the Congress in the general elections"
             ]
         },
         {
             "year": 1990,
             "hints": [
-                "Indian Airlines Flight 605 crashed near Bangalore on 14 February",
-                "The Exodus of Kashmiri Hindus began as insurgency broke out in Kashmir Valley",
-                "New Delhi dissolved the Kashmir state assembly and imposed direct rule on 19 January",
-                "V.P. Singh's government fell on 10 November and Chandra Shekhar became PM",
-                "The Mandal Commission recommendations on reservations for backward classes were implemented"
+                "The National Commission for Women was established as a statutory body through an Act of Parliament",
+                "The romantic musical 'Aashiqui' was released, breaking all previous records with its best-selling soundtrack album",
+                "The Indian government successfully conducted the massive airlift of over 170,000 Indians stranded in Kuwait during the Gulf War",
+                "BJP leader L.K. Advani's controversial Ram Rath Yatra was halted in Bihar, leading to his arrest and the collapse of the Union government",
+                "The announcement to implement the Mandal Commission report sparked widespread anti-reservation student protests and immolations"
             ]
         },
         {
             "year": 1991,
             "hints": [
-                "J. Jayalalithaa was sworn in as Chief Minister of Tamil Nadu for the first time on 24 June",
-                "P.V. Narasimha Rao became Prime Minister on 21 June",
-                "India formally shifted towards Liberalisation, Privatisation and Globalisation",
-                "The New Industrial Policy was announced on 24 July, opening India's economy",
-                "Former Prime Minister Rajiv Gandhi was assassinated by an LTTE suicide bomber on 21 May"
+                "The Konkan Railway Corporation was formally established to construct the challenging coastal railway line",
+                "P. V. Narasimha Rao was sworn in as the Prime Minister to lead a minority Congress government",
+                "Finance Minister Manmohan Singh presented the historic union budget that officially began dismantling the License Raj",
+                "Former Prime Minister Rajiv Gandhi was tragically assassinated by an LTTE suicide bomber in Sriperumbudur",
+                "The Indian economy underwent sweeping structural liberalisation to combat a severe balance of payments crisis"
             ]
         },
         {
             "year": 1992,
             "hints": [
-                "Zee Television became the first Hindi satellite and cable TV station on 2 October",
-                "The Harshad Mehta securities scam was exposed by journalist Sucheta Dalal on 23 April",
-                "Konkani, Nepali and Manipuri were added to the constitutional scheduled languages",
-                "Warren Anderson was declared a fugitive by a Bhopal court on 1 February",
-                "The Babri Masjid was demolished on 6 December by members of the VHP"
+                "The 73rd and 74th Constitutional Amendment Acts were passed, formally institutionalizing Panchayati Raj and Municipalities",
+                "The highly acclaimed film 'Roja' was released, marking the debut of composer A. R. Rahman",
+                "Satyajit Ray was awarded the Honorary Academy Award (Oscar) shortly before his death",
+                "Harshad Mehta's massive stock market manipulation scam was publicly exposed by journalist Sucheta Dalal",
+                "The Babri Masjid in Ayodhya was demolished by kar sevaks, triggering severe nationwide communal riots"
             ]
         },
         {
             "year": 1993,
             "hints": [
-                "The All Parties Hurriyat Conference was formed in Kashmir on 9 March",
-                "Sun TV became the first Tamil satellite television station on 14 April",
-                "An impeachment motion against Justice V. Ramaswami failed in Lok Sabha on 10 May",
-                "The iconic films Baazigar and Darr launched Shah Rukh Khan as a superstar",
-                "A series of bomb blasts rocked Bombay on 12 March, killing around 260 people"
+                "The National Human Rights Commission (NHRC) was formally established as a statutory body",
+                "The Mandal Commission's 27% OBC reservation policy was formally implemented in central government jobs",
+                "The hit thriller 'Baazigar' was released, establishing Shah Rukh Khan as a breakout anti-hero",
+                "A devastating earthquake struck Latur in Maharashtra, claiming roughly 10,000 lives",
+                "A series of 12 coordinated terror bombings devastated Bombay on March 12, engineered by Dawood Ibrahim"
             ]
         },
         {
             "year": 1994,
             "hints": [
-                "Mirabai Chanu, future Olympic medallist weightlifter, was born on 8 August",
-                "A plague outbreak hit India from Surat on 26 August",
-                "Nambi Narayanan was arrested in the ISRO espionage case on 30 November",
-                "Sushmita Sen was crowned Miss Universe on 20 May",
-                "Aishwarya Rai was crowned Miss World on 19 November"
+                "The Cable Television Networks (Regulation) Ordinance was introduced to regulate the booming satellite TV industry",
+                "The iconic cult comedy film 'Andaz Apna Apna' was released in theaters",
+                "Kapil Dev surpassed Richard Hadlee's world record by taking his 432nd wicket in Test cricket",
+                "Sushmita Sen and Aishwarya Rai made history by winning the Miss Universe and Miss World titles respectively in the same year",
+                "The monumental blockbuster 'Hum Aapke Hain Koun..!' was released and completely revolutionized Indian box office collections"
             ]
         },
         {
             "year": 1995,
             "hints": [
-                "Nearly 425 people died in a fire at a school ceremony in Dabwali, Haryana on 23 December",
-                "Punjab Chief Minister Beant Singh was assassinated on 31 August",
-                "Bombay was officially renamed Mumbai in November",
-                "The Internet was officially launched in India by VSNL on 14 August",
-                "Dilwale Dulhania Le Jayenge was released on 20 October, becoming the longest-running Hindi film"
+                "The Mid-Day Meal Scheme was launched nationwide to boost primary school enrollment and child nutrition",
+                "The first-ever public mobile telephone call in India was made between Kolkata and New Delhi",
+                "Internet services were made publicly available in India for the very first time by VSNL",
+                "The city of Bombay was officially and legally renamed to Mumbai",
+                "The iconic romance film 'Dilwale Dulhania Le Jayenge' (DDLJ) was released, beginning its historic uninterrupted theatrical run"
             ]
         },
         {
             "year": 1996,
             "hints": [
-                "Phoolan Devi, the former bandit queen, was elected to Parliament",
-                "Vajpayee became PM but resigned after 13 days, replaced by Deve Gowda's United Front",
-                "The Priyadarshini Mattoo case occurred on 23 January",
-                "The ruling Congress Party was defeated in general elections",
-                "The BJP became the largest single party in parliament for the first time"
+                "The Depositories Act was passed, paving the way for the dematerialization of shares and electronic trading",
+                "Leander Paes won a bronze medal in tennis at the Atlanta Olympics, ending India's 44-year wait for an individual Olympic medal",
+                "The classic blockbuster 'Raja Hindustani', starring Aamir Khan, became the highest-grossing film of the year",
+                "The tragic Charkhi Dadri mid-air collision between a Saudi Arabian and a Kazakhstani aircraft became the world's deadliest mid-air crash",
+                "Atal Bihari Vajpayee became Prime Minister for the first time, though his government famously collapsed after just 13 days"
             ]
         },
         {
             "year": 1997,
             "hints": [
-                "Jagmohan Dalmiya was elected president of the International Cricket Council",
-                "K.R. Narayanan became the first Dalit President of India on 14 July",
-                "Inder Kumar Gujral was sworn in as Prime Minister on 21 April",
-                "Mother Teresa died on 5 September and Sister Nirmala succeeded her",
-                "Laloo Prasad Yadav was ousted and formed the Rashtriya Janata Dal on 5 July"
+                "The Telecom Regulatory Authority of India (TRAI) was formally established by an Act of Parliament",
+                "The blockbuster war film 'Border', based on the real-life Battle of Longewala, was released",
+                "K. R. Narayanan was elected as the President of India, becoming the first Dalit to hold the highest constitutional office",
+                "Arundhati Roy became the first resident Indian citizen to win the Booker Prize for her novel 'The God of Small Things'",
+                "Mother Teresa passed away in Calcutta and was accorded a full state funeral"
             ]
         },
         {
             "year": 1998,
             "hints": [
-                "Sonia Gandhi launched her election campaign at Sriperumbudur on 11 January",
-                "The XXXX Coimbatore bombings killed at least 60 people on 14–15 February",
-                "The BJP-led NDA came to power and Vajpayee became Prime Minister",
-                "The blockbuster Kuch Kuch Hota Hai was the top-grossing film",
-                "India conducted the Pokhran-II nuclear tests in May, becoming a declared nuclear state"
+                "The Konkan Railway officially commenced full commercial operations along the rugged western coast of India",
+                "Amartya Sen was awarded the Nobel Memorial Prize in Economic Sciences for his work in welfare economics",
+                "The landmark romantic thriller 'Dil Se..' was released, featuring the globally iconic train song 'Chaiyya Chaiyya'",
+                "Sachin Tendulkar played his legendary back-to-back 'Desert Storm' innings against Australia in Sharjah",
+                "India shocked the world by conducting a series of nuclear bomb test explosions at Pokhran (Pokhran-II)"
             ]
         },
         {
             "year": 1999,
             "hints": [
-                "Australian missionary Graham Staines and his two sons were burned to death on 23 January",
-                "Anil Kumble took all 10 wickets in a Test innings against Pakistan on 7 February",
-                "The Kargil War was fought between India and Pakistan from May to July",
-                "The Indian Airlines Flight IC-814 was hijacked to Kandahar in December",
-                "Vajpayee's government fell by one vote, leading to fresh elections won by the NDA"
+                "The Foreign Exchange Management Act (FEMA) was passed to replace the draconian FERA regulations",
+                "Anil Kumble became the second bowler in Test cricket history to take all 10 wickets in a single innings against Pakistan",
+                "Indian Airlines Flight 814 (IC 814) was hijacked to Kandahar by terrorists",
+                "Prime Minister Atal Bihari Vajpayee took the historic inaugural Delhi-Lahore bus journey to meet Nawaz Sharif",
+                "The Indian Armed Forces successfully executed Operation Vijay to reclaim heights occupied by Pakistan in the Kargil War"
             ]
         },
         {
             "year": 2000,
             "hints": [
-                "Archaeologists announced discovery of ancient man-made structures off the Gujarat coast on 16 January",
-                "Three new states — Chhattisgarh, Jharkhand and Uttarakhand — were carved out in November",
-                "Kaho Naa Pyaar Hai was the top-grossing Hindi film",
-                "A landmine exploded in a busy vegetable market in Kashmir, killing 15 on 3 January",
-                "PM Vajpayee accused Pakistan of being behind the hijacking of an Indian plane on 3 January"
+                "The Information Technology Act (IT Act) was passed by the Parliament",
+                "Viswanathan Anand won his first FIDE World Chess Championship",
+                "Three new states—Chhattisgarh, Uttarakhand, and Jharkhand—were carved out and established",
+                "The hit romance film 'Kaho Naa... Pyaar Hai' marked the highly successful debut of Hrithik Roshan",
+                "Amitabh Bachchan debuted as the host of the inaugural season of 'Kaun Banega Crorepati'"
             ]
         },
         {
             "year": 2001,
             "hints": [
-                "Over 100 million people attended the Maha Kumbh Mela in Allahabad in January",
-                "Calcutta was officially renamed Kolkata on 1 January",
-                "India tested its first homemade jet fighter, the Light Combat Aircraft, on 4 January",
-                "Power cuts left huge swathes of northern India in darkness for two days starting 2 January",
-                "Lagaan, Gadar and Kabhi Khushi Kabhie Gham were all released"
+                "The Geosynchronous Satellite Launch Vehicle (GSLV) completed its first developmental flight",
+                "V. S. Naipaul was awarded the Nobel Prize in Literature",
+                "V. V. S. Laxman and Rahul Dravid orchestrated a historic comeback Test cricket victory against Australia at Eden Gardens",
+                "A devastating earthquake struck Bhuj on Republic Day, causing immense destruction in Gujarat",
+                "The landmark films 'Lagaan' and 'Dil Chahta Hai' were released, transforming modern Indian cinema"
             ]
         },
         {
             "year": 2002,
             "hints": [
-                "A.P.J. Abdul Kalam became President of India on 25 July",
-                "Archaeologists discovered ancient structures off Gujarat possibly 9,500 years old",
-                "The Godhra train burning on 27 February triggered the Gujarat riots",
-                "India laid landmines along its entire 2,800-km border with Pakistan",
-                "The landmark film Devdas starring Shah Rukh Khan was the top-grossing film"
+                "The Delhi Metro commenced its first commercial operations on the Red Line",
+                "'Devdas', directed by Sanjay Leela Bhansali, premiered at Cannes and became the highest-grossing Indian film of the year",
+                "A. P. J. Abdul Kalam was elected as the 11th President of India",
+                "India won the historic NatWest Series cricket final at Lord's, celebrated by Sourav Ganguly waving his shirt",
+                "The Godhra train burning incident triggered widespread riots across Gujarat"
             ]
         },
         {
             "year": 2003,
             "hints": [
-                "India reached the Cricket World Cup final in South Africa but lost to Australia",
-                "Vajpayee made a historic peace initiative announcement in Srinagar on 18 April",
-                "Haren Pandya, former Gujarat home minister, was found killed on 26 March",
-                "Munna Bhai M.B.B.S. became a cultural phenomenon",
-                "India conceded Tibet as part of China during Vajpayee's visit; China recognised Sikkim"
+                "The Fiscal Responsibility and Budget Management (FRBM) Act was enacted to institutionalize financial discipline",
+                "The inaugural Pravasi Bharatiya Divas was celebrated to mark the contribution of the overseas Indian community",
+                "Kalpana Chawla tragically died in the Space Shuttle Columbia disaster",
+                "'Koi... Mil Gaya', India's first major sci-fi blockbuster, was released",
+                "India reached the final of the ICC Cricket World Cup but lost heavily to Australia in Johannesburg"
             ]
         },
         {
             "year": 2004,
             "hints": [
-                "Pratibha Patil became Governor of Rajasthan, later becoming India's first woman President",
-                "The Congress-led UPA defeated the BJP-led NDA in a surprise election result",
-                "Manmohan Singh became Prime Minister on 22 May",
-                "The Indian Ocean tsunami on 26 December devastated coastal India",
-                "Sonia Gandhi declined the PM post despite Congress winning the election"
+                "India's first official broadband policy was announced by the Department of Telecommunications",
+                "Rajyavardhan Singh Rathore won India's first individual Olympic silver medal at the Athens Games",
+                "'Veer-Zaara' released and became the top-grossing Bollywood film of the year",
+                "The devastating Indian Ocean tsunami struck, severely affecting the Andaman and Nicobar Islands and Tamil Nadu",
+                "Manmohan Singh became the Prime Minister of India following the UPA coalition's surprise election victory"
             ]
         },
         {
             "year": 2005,
             "hints": [
-                "SpiceJet began its maiden domestic flight on the Delhi-Mumbai route on 24 May",
-                "MGNREGA was enacted on 23 August, guaranteeing 100 days of employment",
-                "A stampede at Mandher Devi temple in Satara killed at least 215 on 25 January",
-                "Mumbai was submerged by massive floods on 26 July",
-                "The Right to Information Act came into force"
+                "The Value Added Tax (VAT) was introduced across most Indian states, replacing the previous sales tax regime",
+                "The Special Economic Zones (SEZ) Act was passed to boost exports and foreign investment",
+                "'Black', directed by Sanjay Leela Bhansali, swept the Filmfare Awards with a record-breaking 11 trophies",
+                "Sachin Tendulkar scored his 35th Test century, surpassing Sunil Gavaskar's long-standing world record",
+                "The Right to Information (RTI) Act came into force, fundamentally changing government transparency"
             ]
         },
         {
             "year": 2006,
             "hints": [
-                "The Nathula Pass between India and China reopened for trade after 44 years on 6 July",
-                "Tata launched the Nano project amid Singur protests beginning in May",
-                "US President George W. Bush visited India and signed a landmark nuclear deal in March",
-                "Seven serial bomb blasts hit Mumbai commuter trains on 11 July",
-                "Rang De Basanti became a cultural phenomenon inspiring youth activism"
+                "The historic Nathu La pass between India and China reopened for trade after 44 years",
+                "Saina Nehwal became the first Indian woman to win a 4-star badminton tournament at the Philippines Open",
+                "'Rang De Basanti' released, sparking nationwide youth activism and political debates",
+                "A series of coordinated bomb blasts struck the local train network in Mumbai on July 11",
+                "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) was officially launched in 200 districts"
             ]
         },
         {
             "year": 2007,
             "hints": [
-                "Pratibha Patil became India's first woman President on 25 July",
-                "India launched four satellites at once with PSLV-C7 on 10 January",
-                "The Nandigram violence in West Bengal killed 14 villagers in police firing on 14 March",
-                "The Samjhauta Express bombings killed 68 people on 18 February",
-                "Chak De! India and Taare Zameen Par became landmark films"
+                "Tata Steel acquired Corus Group for $12 billion, marking India's largest overseas corporate takeover",
+                "The GSLV-F04 launched INSAT-4CR into orbit, a major success for ISRO",
+                "'Chak De! India' was released, becoming a cultural landmark for Indian sports cinema",
+                "Pratibha Patil was sworn in as the first female President of India",
+                "MS Dhoni led a young Indian team to victory in the inaugural ICC T20 World Cup in South Africa"
             ]
         },
         {
             "year": 2008,
             "hints": [
-                "Tata launched the Nano, claimed to be the world's cheapest car, on 10 January",
-                "Abhinav Bindra won India's first individual Olympic gold medal in shooting",
-                "Chandrayaan-1, India's first lunar mission, was launched on 22 October",
-                "The 6.9 magnitude Bihar earthquake killed hundreds on 21 August",
-                "The 26/11 Mumbai terror attacks killed 166 people in a three-day siege"
+                "The landmark Indo-US Civil Nuclear Agreement was officially signed into law",
+                "Ratan Tata unveiled the Tata Nano, marketed as the world's cheapest car, at the Auto Expo",
+                "Abhinav Bindra won India's first-ever individual Olympic gold medal at the Beijing Games",
+                "ISRO successfully launched Chandrayaan-1, India's first lunar exploration mission",
+                "Coordinated terrorist attacks struck multiple locations in Mumbai on November 26"
             ]
         },
         {
             "year": 2009,
             "hints": [
-                "The Satyam scandal was exposed when founder Ramalinga Raju confessed to fraud on 7 January",
-                "Manmohan Singh was re-elected as Prime Minister on 19 May",
-                "3 Idiots became the highest-grossing Bollywood film of the year",
-                "The National Investigation Agency (NIA) came into force on 1 January",
-                "India approved a plan to launch its first astronauts into space by XXXX"
+                "The Right of Children to Free and Compulsory Education (RTE) Act was passed by the Parliament",
+                "The Delhi High Court decriminalized homosexuality in the landmark Naz Foundation judgment",
+                "A. R. Rahman won two Academy Awards for his musical work on the film 'Slumdog Millionaire'",
+                "'3 Idiots' was released and went on to shatter all previous box-office records in Bollywood",
+                "The Unique Identification Authority of India (UIDAI) was established to roll out the Aadhaar system"
             ]
         },
         {
             "year": 2010,
             "hints": [
-                "The last fluent speaker of the Aka-Bo language of the Andaman Islands died on 5 February",
-                "The Pune bombing at the German Bakery killed 17 people on 13 February",
-                "The Commonwealth Games were held in Delhi in October",
-                "A Naxalite attack on an army camp in West Bengal killed 24 soldiers on 15 February",
-                "Dabangg became the top-grossing Hindi film, launching Salman Khan's second innings"
+                "The National Green Tribunal (NGT) was established for the expedited disposal of environmental cases",
+                "The Right to Education (RTE) Act officially came into effect across the entire country",
+                "'Dabangg' released, establishing Salman Khan's iconic Chulbul Pandey character and dominating the box office",
+                "Sachin Tendulkar became the first male cricketer to score a double century in a One Day International",
+                "The Commonwealth Games were hosted in New Delhi amid major controversies and logistical issues"
             ]
         },
         {
             "year": 2011,
             "hints": [
-                "Mamata Banerjee was sworn in as the first woman Chief Minister of West Bengal",
-                "Anna Hazare undertook a fast for the Jan Lokpal Bill at Jantar Mantar, New Delhi",
-                "102 pilgrims died in a stampede at Sabarimala, Kerala on 14 January",
-                "Mobile number portability was launched in India on 20 January",
-                "India beat Sri Lanka to win the Cricket World Cup on 2 April"
+                "India successfully conducted its first census of the 21st century, revealing a population of 1.21 billion",
+                "The inaugural Formula 1 Indian Grand Prix was held at the Buddh International Circuit",
+                "The song 'Kolaveri Di' went viral, becoming the most-searched YouTube video in India",
+                "Anna Hazare launched a massive nationwide anti-corruption hunger strike demanding the Jan Lokpal Bill",
+                "MS Dhoni hit a six at Wankhede Stadium to win the ICC Cricket World Cup for India after a 28-year wait"
             ]
         },
         {
             "year": 2012,
             "hints": [
-                "Irom Sharmila's fast against AFSPA completed 11 years on 14 March",
-                "The Supreme Court cancelled all 122 licences given by A. Raja in the 2G spectrum case on 2 February",
-                "India hosted the 4th BRICS summit at New Delhi on 29 March",
-                "Two Italian marines shot dead two Indian fishermen off the Kerala coast on 16 February",
-                "The horrific Delhi gang rape case on 16 December sparked nationwide protests"
+                "The Protection of Children from Sexual Offences (POCSO) Act was enacted by the Parliament",
+                "India was officially removed from the World Health Organization's list of polio-endemic countries",
+                "'Gangs of Wasseypur' premiered at Cannes, becoming a defining cult classic of modern Indian cinema",
+                "Mary Kom won her first Olympic medal at the London Games",
+                "The horrific Nirbhaya gang-rape case in New Delhi sparked unprecedented nationwide protests"
             ]
         },
         {
             "year": 2013,
             "hints": [
-                "India shut down its public telegram service on 14 July",
-                "An estimated 120 million pilgrims attended the Kumbh Mela in Allahabad",
-                "Afzal Guru was executed in Tihar Jail on 9 February for his role in the XXXX Parliament attack",
-                "Bollywood completed 100 years since the release of Raja Harishchandra",
-                "Terror attacks in Hyderabad's Dilsukhnagar killed 17 people on 21 February"
+                "The National Food Security Act (NFSA) was enacted to provide subsidized food grains to a majority of the population",
+                "'The Lunchbox' premiered at the Cannes Film Festival and won the Critics Week Viewers Choice Award",
+                "The Supreme Court reversed a 2009 High Court verdict, re-criminalizing consensual same-sex relations under Section 377",
+                "Devastating flash floods in Uttarakhand killed thousands and destroyed the Kedarnath valley infrastructure",
+                "ISRO successfully launched the Mars Orbiter Mission (Mangalyaan) from Sriharikota"
             ]
         },
         {
             "year": 2014,
             "hints": [
-                "Telangana was formed as India's 29th state on 2 June",
-                "India's Mars Orbiter Mission (Mangalyaan) successfully entered Mars orbit",
-                "GSAT-14 was launched using GSLV-D5 on 5 January, a milestone for India's space programme",
-                "The BJP won a landslide victory in the general election",
-                "Narendra Modi was sworn in as Prime Minister on 26 May"
+                "The Supreme Court officially recognized transgender people as a 'third gender' in the landmark NALSA judgment",
+                "Kailash Satyarthi was awarded the Nobel Peace Prize jointly with Malala Yousafzai",
+                "The state of Telangana was officially formed as the 29th state of India",
+                "'PK', directed by Rajkumar Hirani, became the first Indian film to gross over ₹700 crore worldwide",
+                "Narendra Modi became Prime Minister after the BJP won the first single-party majority in 30 years"
             ]
         },
         {
             "year": 2015,
             "hints": [
-                "US President Barack Obama was the chief guest at Republic Day on 26 January",
-                "NITI Aayog was established on 1 January to replace the Planning Commission",
-                "The Aam Aadmi Party won 67 of 70 seats in the Delhi elections on 10 February",
-                "The Agni-V intercontinental ballistic missile was test-launched from a canister on 31 January",
-                "The net neutrality debate intensified after TRAI's landmark ruling"
+                "The NITI Aayog was established, officially replacing the 65-year-old Planning Commission",
+                "The Supreme Court struck down Section 66A of the IT Act, scoring a major victory for online free speech",
+                "Sania Mirza partnered with Martina Hingis to win both the Wimbledon and US Open women's doubles titles",
+                "Catastrophic flooding in Chennai brought the city to a complete standstill in November and December",
+                "'Baahubali: The Beginning' was released, revolutionizing pan-Indian cinema and breaking multiple box office records"
             ]
         },
         {
             "year": 2016,
             "hints": [
-                "Rohith Vemula's death on 17 January triggered a nationwide agitation against caste discrimination",
-                "JNU student Kanhaiya Kumar was arrested on sedition charges on 12 February",
-                "At least 27 people were killed in the Kolkata flyover collapse on 31 March",
-                "Dangal became the highest-grossing Indian film of the year",
-                "The government demonetised ₹500 and ₹1,000 notes on 8 November"
+                "The Insolvency and Bankruptcy Code (IBC) was passed by Parliament to consolidate bankruptcy laws",
+                "ISRO successfully launched the IRNSS-1G, completing India's own independent regional navigation satellite system (NavIC)",
+                "'Dangal' released, eventually becoming the highest-grossing Indian film of all time worldwide",
+                "The Uri terror attack occurred, prompting the Indian Army to conduct cross-border 'surgical strikes'",
+                "Prime Minister Narendra Modi announced the demonetisation of ₹500 and ₹1,000 currency notes"
             ]
         },
         {
             "year": 2017,
             "hints": [
-                "Ram Nath Kovind was elected President of India on 20 July",
-                "ISRO launched 104 satellites in a single mission on PSLV-C37 on 15 February",
-                "The Goods and Services Tax (GST) was rolled out on 1 July",
-                "The railway budget was merged into the general budget for the first time on 1 February",
-                "Pro-Jallikattu protests swept across Tamil Nadu in January"
+                "The Supreme Court ruled that individual privacy is a fundamental right under the Constitution in the Puttaswamy judgment",
+                "The Indian women's cricket team narrowly lost the ICC World Cup final to England at Lord's",
+                "ISRO set a world record by successfully launching 104 satellites on a single PSLV rocket",
+                "Military forces of India and China engaged in a tense 73-day standoff at the Doklam tri-junction",
+                "The Goods and Services Tax (GST) was officially implemented at a midnight parliamentary session on July 1"
             ]
         },
         {
             "year": 2018,
             "hints": [
-                "Clashes between Dalits and Marathas erupted at Koregaon Bhima on 1 January",
-                "Lalu Prasad Yadav was sentenced to jail in the Fodder Scam case on 6 January",
-                "The Supreme Court decriminalised homosexuality by reading down Section 377 in September",
-                "The Kerala floods in August were the worst in nearly a century, killing over 400",
-                "290,000 doctors went on strike to protest the National Medical Commission Bill on 2 January"
+                "Mary Kom made history by winning her record sixth gold medal at the World Boxing Championships",
+                "The Supreme Court struck down Section 497 of the IPC, effectively decriminalizing adultery",
+                "'Andhadhun' released, becoming a massive critical and commercial success, especially in international markets like China",
+                "The world's tallest statue, the Statue of Unity, was officially inaugurated in Gujarat",
+                "The Supreme Court historically struck down parts of Section 377, decriminalizing consensual same-sex relations"
             ]
         },
         {
             "year": 2019,
             "hints": [
-                "India conducted the Balakot airstrike on 26 February in response to the Pulwama attack",
-                "Wing Commander Abhinandan Varthaman returned to India on 1 March",
-                "Chandrayaan-2 was launched on 22 July as India's second lunar mission",
-                "Article 370 was revoked from Jammu and Kashmir on 5 August",
-                "A suicide bomber attacked a CRPF convoy near Pulwama on 14 February, killing 40 personnel"
+                "'Gully Boy' swept the Filmfare Awards, winning a record 13 trophies",
+                "ISRO's Chandrayaan-2 mission successfully entered lunar orbit but lost its Vikram lander just above the surface",
+                "The Citizenship (Amendment) Act (CAA) was passed, triggering massive nationwide protests",
+                "The Pulwama terror attack killed 40 CRPF personnel, leading to the retaliatory Balakot airstrikes",
+                "The Government of India formally revoked the special status of Jammu and Kashmir by reading down Article 370"
             ]
         },
         {
             "year": 2020,
             "hints": [
-                "The four convicts of the XXXX Delhi gang rape case were executed on 20 March",
-                "India's first COVID-19 case was confirmed in Kerala on 30 January",
-                "At least 53 people were killed in communal riots in Delhi in February",
-                "US President Donald Trump visited India for a two-day state visit in February",
-                "PM Modi announced a 21-day nationwide lockdown on 24 March to combat COVID-19"
+                "The National Education Policy (NEP) was approved, replacing the 34-year-old educational framework of 1986",
+                "MS Dhoni officially announced his retirement from international cricket via an Instagram post",
+                "Indian and Chinese troops engaged in a deadly, hand-to-hand skirmish in the Galwan Valley",
+                "Three controversial farm laws were passed, leading to a year-long massive protest by farmers at Delhi's borders",
+                "Prime Minister Narendra Modi announced a strict 21-day nationwide lockdown to curb the spread of COVID-19"
             ]
         },
         {
             "year": 2021,
             "hints": [
-                "India began its mass COVID-19 vaccination campaign on 16 January",
-                "A massive tractor rally during the farmers' protest led to violence at Red Fort on 26 January",
-                "The Supreme Court suspended the three new farm laws on 12 January",
-                "India approved Covaxin and Covishield vaccines for emergency use on 2 January",
-                "The second wave of COVID-19 devastated India with record cases and deaths in April-May"
+                "Harnaaz Sandhu won the Miss Universe pageant, bringing the crown back to India after 21 years",
+                "'Jai Bhim' released on streaming, receiving widespread critical acclaim and sparking national conversations on caste discrimination",
+                "Air India was officially acquired back by the Tata Group after 68 years of government control",
+                "A devastating second wave of COVID-19 overwhelmed the Indian healthcare system, driven primarily by the Delta variant",
+                "Neeraj Chopra won India's first-ever Olympic gold medal in athletics with his historic javelin throw in Tokyo"
             ]
         },
         {
             "year": 2022,
             "hints": [
-                "The Amar Jawan Jyoti flame was merged with the National War Memorial flame on 21 January",
-                "The Karnataka hijab row sparked nationwide debate in February",
-                "12 people were killed in a stampede at Vaishno Devi Temple on 1 January",
-                "PM Modi's convoy was stuck on a flyover in Punjab following a security breach on 5 January",
-                "The Kashmir Files became a cultural and political phenomenon"
+                "The Supreme Court effectively suspended the colonial-era sedition law (Section 124A) pending a government review",
+                "Virat Kohli officially stepped down as the captain of the Indian Test cricket team",
+                "India officially rolled out 5G telecommunication services across multiple major cities",
+                "'RRR' released globally, becoming a massive pop-culture phenomenon and laying the groundwork for an eventual Oscar win",
+                "Droupadi Murmu was elected as the 15th President of India, becoming the first tribal person to hold the highest office"
             ]
         },
         {
             "year": 2023,
             "hints": [
-                "Rahul Gandhi was disqualified from Parliament after a defamation conviction on 23 March",
-                "36 people were killed in the Indore stepwell collapse on 31 March",
-                "India surpassed China to become the world's most populous country",
-                "Indian wrestlers protested against WFI president Brij Bhushan Sharan Singh in January",
-                "Chandrayaan-3 successfully landed on the Moon's south pole on 23 August"
+                "The Women's Reservation Bill (Nari Shakti Vandan Adhiniyam) was passed, reserving 33% of Lok Sabha seats for women",
+                "Shah Rukh Khan made a massive box office comeback by starring in 'Pathaan' and 'Jawan' in the same calendar year",
+                "'Naatu Naatu' from 'RRR' made history by winning the Academy Award for Best Original Song",
+                "India officially surpassed China to become the world's most populous country according to United Nations estimates",
+                "ISRO's Chandrayaan-3 successfully made history by completing a soft landing on the Moon's south polar region"
             ]
         },
         {
             "year": 2024,
             "hints": [
-                "ISRO's Aditya-L1 spacecraft reached its final orbit around the Sun-Earth L1 point on 6 January",
-                "Bihar CM Nitish Kumar switched alliances and rejoined the BJP-led NDA on 28 January",
-                "French President Macron was the chief guest at India's 75th Republic Day on 26 January",
-                "The Ram Mandir at Ayodhya was inaugurated by PM Modi on 22 January",
-                "The BJP-led NDA won the general election but with a reduced majority"
+                "The heavily publicized and controversial arrest of Delhi Chief Minister Arvind Kejriwal took place",
+                "Manu Bhaker became the first Indian to win two Olympic medals in a single edition of the Games in Paris",
+                "The Indian general elections resulted in a coalition government as the ruling party failed to secure an absolute majority independently",
+                "India won the ICC Men's T20 World Cup in Barbados, ending an 11-year global trophy drought",
+                "The Ram Mandir in Ayodhya was officially consecrated in a highly publicized Pran Pratishtha ceremony"
             ]
         },
         {
             "year": 2025,
             "hints": [
-                "Actor Saif Ali Khan was stabbed during an attempted robbery at his Mumbai home on 16 January",
-                "Nine people were killed in a Naxal landmine attack in Bijapur, Chhattisgarh on 6 January",
-                "The Prayag Maha Kumbh Mela began on 13 January",
-                "The Sonamarg Tunnel in Jammu and Kashmir was inaugurated on 13 January",
-                "A stampede at Venkateswara Temple in Tirupati killed at least six people on 8 January"
+                "Parliament passed the highly debated Waqf (Amendment) Act",
+                "The Indian military conducted 'Operation Sindoor' across the border in response to the Pahalgam terror attack",
+                "Group Captain Shubhanshu Shukla became the first Indian to visit the International Space Station aboard the Axiom-4 mission",
+                "A sweeping electoral victory in Bihar saw Nitish Kumar sworn in as Chief Minister for a record tenth time",
+                "India defeated New Zealand in the final to lift the ICC Men's Champions Trophy"
             ]
         }
     ];
